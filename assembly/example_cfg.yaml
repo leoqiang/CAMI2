@@ -1,0 +1,5 @@
+sample: sample_1
+run_dir: /scratch/temp/qiafu/assembly/
+sr: /data/testdir/qiafu/tool_test/CAMI2-201903/marine_datasets/reads/marmgCAMI2_short_read_sample_1_reads.fq.gz
+lr: /data/testdir/qiafu/tool_test/CAMI2-201903/marine_datasets/reads/marmgCAMI2_long_read_sample_1_reads.fq.gz
+threads: 20
